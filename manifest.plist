@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://akd.cn</string>
+					<string>https://github.com/longhuangv5/daily_download/raw/master/Apps/%E5%B7%A5%E4%BD%9C%E6%B1%87%E6%8A%A5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://akd.cn</string>
+					<string>https://raw.githubusercontent.com/longhuangv5/daily_download/master/image.57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://akd.cn</string>
+					<string>https://raw.githubusercontent.com/longhuangv5/daily_download/master/image.512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
